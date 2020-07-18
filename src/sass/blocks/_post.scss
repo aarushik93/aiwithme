@@ -126,6 +126,10 @@
     padding: 1.25rem 1.25rem 3.75rem;
     border-bottom: 1px solid cc(border);
 
+    a {
+      text-decoration: underline;
+    }
+
     @media (--laptop) {
       padding: 0 1.25rem 2.5rem;
     }
